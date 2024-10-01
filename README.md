@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=maximelardier.com&style=for-the-badge&url=https%3A%2F%2Fmaximelardier.dev)](https://maximelardier.dev)
 
-## I'm a student at Epitech Paris in MSc2
+## I'm a software engineer at Contentsquare
 
-- 🔭 I'm currently working @ [Contentsquare][contentsquare] as an Apprentice Software Engineer
+- 🔭 I'm currently working @[Contentsquare][contentsquare] as a Software Engineer
 - 📧 How to reach me: [max@💻.kz](mailto:max@💻.kz)
 
 ### Connect with me:
